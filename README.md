@@ -15,5 +15,3 @@ This is a full stack web application that allows users to explore Indian heritag
 - Interactive UI
 - Backend data handling
 
-## 📸 Screenshots
-(Add screenshots here later)
